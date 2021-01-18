@@ -3,9 +3,8 @@
 Download YOLOv3 weights, config, cooc.names files from YOLO website.
 https://pjreddie.com/darknet/yolo/
 
-Requirements to run 
--opencv 
--yolov3 
+Requirements to run --->
+opencv, yolov3 
 
 input files are placed in input folder and results are in output folder in their respective projects.
 
